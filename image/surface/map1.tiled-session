@@ -1,0 +1,88 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "tiles",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "plane.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/plane.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_down_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_left_down_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_left_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_left_up_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_right_down_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_right_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_right_up_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/water_up_edge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "E:/gongmo/image/surface/tiles/새 폴더",
+    "map.height": 45,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "tiles/water_down_edge.tsx",
+        "tiles/plane.tsx",
+        "tiles/water_left_down_edge.tsx",
+        "tiles/water_left_edge.tsx",
+        "tiles/water_right_down_edge.tsx",
+        "tiles/water_right_edge.tsx",
+        "tiles/water_right_up_edge.tsx",
+        "tiles/water_up_edge.tsx",
+        "tiles/water_right_up_edge.tsx"
+    ],
+    "project": "map1.tiled-project",
+    "recentFiles": [
+        "tiles/water_left_up_edge.tsx",
+        "tiles/water_left_down_edge.tsx",
+        "tiles/water_left_edge.tsx",
+        "tiles/water_up_edge.tsx",
+        "tiles/water_right_up_edge.tsx",
+        "tiles/water_right_edge.tsx",
+        "tiles/water_right_down_edge.tsx",
+        "tiles/water_down_edge.tsx",
+        "tiles/plane.tsx",
+        "plane.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
