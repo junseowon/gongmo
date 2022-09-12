@@ -10,7 +10,7 @@ SURFACE = pygame.display.set_mode((surface_width, surface_height))
 pygame.display.set_caption('hiihhi')
 FPSCLOCK = pygame.time.Clock()
 
-#Howtoplay를 위한 이미지들!
+#Howtoplay를 위한 이미지들!...
 back_button = ("E:/gongmo/image/surface/Back_button.png")
 back_button_act = ("E:/gongmo/image/surface/Back_button_act.png")
 
